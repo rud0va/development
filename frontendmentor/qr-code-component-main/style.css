@@ -49,3 +49,11 @@ main {
   color: #7d889e;
   padding: 0 16px;
 }
+
+/* MEDIA QUERIES */
+
+@media (max-width: 480px) {
+  .card {
+    margin: 28px;
+  }
+}
