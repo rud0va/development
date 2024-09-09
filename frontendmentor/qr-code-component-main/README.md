@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://sunny-twilight-835840.netlify.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-main-just-using-html-and-css-VfbqZmSmyW)
+- Live Site URL: [Hosted on Netlify](https://sunny-twilight-835840.netlify.app/)
 
 ## My process
 
@@ -56,13 +56,13 @@ Next time I don't want to use pixel values for font-size, padding, margin and so
 
 ### Useful resources
 
-- [Flexbox Crash Course 2024 by Traversy Media](https://www.youtube.com/watch?v=3YW65K6LcIA) - This helped me for understanding flexbox. I really liked his teaching style and the pace, because it's perfect for coding the examples by yourself while watching/listening him.
-- [Box Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - This helped me for using the box-shadow property.
+- [Flexbox Crash Course 2024 by Traversy Media - YouTube](https://www.youtube.com/watch?v=3YW65K6LcIA) - This helped me for understanding flexbox. I really liked his teaching style and the pace, because it's perfect for coding the examples by yourself while watching/listening him.
+- [Box Shadow - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow) - This helped me for using the box-shadow property.
 
 ## Author
 
 - Website - Coming soon
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rud0va)
+- Frontend Mentor - [@rud0va](https://www.frontendmentor.io/profile/rud0va)
 
 ## Acknowledgments
 
